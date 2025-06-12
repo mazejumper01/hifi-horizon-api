@@ -13,48 +13,111 @@
       "id": 2
     }
   ],
-  "secrets": [
+  "products": [
     {
       "id": 1001,
-      "quote": "Three may keep a secret, if two of them are dead.",
-      "author": "Benjamin Franklin",
-      "origin": "Poor Richard's Almanack"
+      "category": "cd-afspillere",
+      "product_name": "Creek Classic CD Player",
+      "price_dkk": 4999,
+      "image_url": "/images/creek-classic.jpg",
+      "description": "Creek Classic er en stilfuld og pålidelig CD-afspiller, der leverer en varm og detaljeret lydoplevelse. Den er designet til audiofile, der ønsker klassisk hi-fi uden unødvendige gimmicks.",
+      "product_specifications": {
+        "format_support": ["CD", "CD-R", "CD-RW"],
+        "dac": "24-bit/192kHz",
+        "outputs": ["RCA analog", "Optical", "Coaxial digital"],
+        "display": "2-linjers LCD med baggrundsbelysning",
+        "remote_control": "Inkluderet",
+        "dimensions_mm": "430 x 70 x 280",
+        "weight_kg": 6.5
+      }
     },
     {
       "id": 1002,
-      "quote": "If you want to keep a secret, you must also hide it from yourself.",
-      "author": "George Orwell",
-      "origin": "1984"
+      "category": "cd-afspillere",
+      "product_name": "Creek Destiny CD Player",
+      "price_dkk": 8499,
+      "image_url": "/images/creek-destiny.jpg",
+      "description": "Creek Destiny repræsenterer topklassen i Creeks CD-serie. Den er bygget med audiofile komponenter og en højtydende DAC for at give en ren, dynamisk og præcis lyd.",
+      "product_specifications": {
+        "format_support": ["CD", "CD-R", "HDCD"],
+        "dac": "Wolfson WM8740 24-bit/192kHz",
+        "analog_output": ["RCA", "XLR (balanceret)"],
+        "digital_output": ["Optical", "Coaxial"],
+        "power_supply": "Dual mono toroidal transformer",
+        "remote_control": "High-grade alu-remote",
+        "dimensions_mm": "430 x 75 x 320",
+        "weight_kg": 7.8
+      }
     },
     {
       "id": 1003,
-      "quote": "Secrets, silent, stony sit in the dark palaces of both our hearts: secrets weary of their tyranny: tyrants willing to be dethroned.",
-      "author": "James Joyce",
-      "origin": "Ulysses"
+      "category": "cd-afspillere",
+      "product_name": "Creek Evolution CD Player",
+      "price_dkk": 5799,
+      "image_url": "/images/creek-evolution.jpg",
+      "description": "Creek EVO CD-afspilleren kombinerer moderne teknologi med Creeks velkendte lydsignatur. EVO-serien fokuserer på effektivitet, ydelse og værdi for pengene.",
+      "product_specifications": {
+        "format_support": ["CD", "CD-R", "CD-RW"],
+        "dac": "Cirrus Logic CS4396 24-bit",
+        "outputs": ["RCA analog", "Optical", "Coaxial digital"],
+        "chassis": "Metal med vibrationsdæmpning",
+        "remote_control": "Inkluderet",
+        "dimensions_mm": "430 x 60 x 280",
+        "weight_kg": 6.0
+      }
     },
     {
-      "id": 1004,
-      "quote": "We dance round in a ring and suppose, but the secret sits in the middle and knows.",
-      "author": "Robert Frost",
-      "origin": "The Secret Sits"
-    }
-  ],
-  "statements": [
-    {
       "id": 2001,
-      "sentence": "This coffee shop is cozy."
+      "category": "dvd-afspillere",
+      "product_name": "Parasound D2000 DVD Player",
+      "price_dkk": 3999,
+      "image_url": "/images/parasound-d2000.jpg",
+      "description": "Parasound D2000 leverer fremragende videokvalitet og solid lyd med støtte for flere disc-formater og digitale udgange.",
+      "product_specifications": {
+        "format_support": ["DVD", "CD", "MP3-CD", "DVD-R"],
+        "video_output": ["HDMI", "Component", "Composite"],
+        "audio_output": ["RCA", "Optical", "Coaxial"],
+        "upscaling": "1080p",
+        "remote_control": "Inkluderet",
+        "dimensions_mm": "430 x 75 x 300",
+        "weight_kg": 5.5
+      }
     },
     {
       "id": 2002,
-      "sentence": "It is never too late to learn."
+      "category": "dvd-afspillere",
+      "product_name": "Parasound Halo D3 DVD Player",
+      "price_dkk": 7499,
+      "image_url": "/images/parasound-halo-d3.jpg",
+      "description": "Halo D3 er en premium DVD-afspiller med high-end komponenter og avanceret videoskalering, ideel til hjemmebiografentusiaster.",
+      "product_specifications": {
+        "format_support": ["DVD", "DVD-R", "CD", "SACD"],
+        "video_output": ["HDMI", "Component"],
+        "audio_output": ["RCA", "XLR", "Optical"],
+        "dac": "Burr-Brown 24-bit/192kHz",
+        "chassis": "Vibrationsdæmpet aluminium",
+        "remote_control": "Aluminium high-end fjernbetjening",
+        "dimensions_mm": "440 x 85 x 310",
+        "weight_kg": 6.8
+      }
     },
     {
       "id": 2003,
-      "sentence": "These socks do not match."
-    },
-    {
-      "id": 2004,
-      "sentence": "I am interested in music."
+      "category": "dvd-afspillere",
+      "product_name": "Denon DVD-2910 Player",
+      "price_dkk": 2999,
+      "image_url": "/images/denon-dvd2910.jpg",
+      "description": "Denon DVD-2910 er en alsidig DVD-afspiller med stærk audiofil ydeevne og progressiv scan video for forbedret billedkvalitet.",
+      "product_specifications": {
+        "format_support": ["DVD", "DVD-R", "CD", "MP3-CD", "SACD"],
+        "video_output": ["HDMI", "Component", "S-Video"],
+        "audio_output": ["RCA", "Optical"],
+        "progressive_scan": true,
+        "remote_control": "Inkluderet",
+        "dimensions_mm": "430 x 80 x 300",
+        "weight_kg": 5.0
+      }
     }
   ]
+  
 }
