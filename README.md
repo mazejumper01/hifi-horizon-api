@@ -1,6 +1,5 @@
 #API til Hifi-horizon
 
-Clon reporsitory.
 
 Installer dependencies:
 
