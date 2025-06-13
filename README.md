@@ -1,4 +1,4 @@
-#API til loginøvelser
+#API til Hifi-horizon
 
 Clon reporsitory.
 
