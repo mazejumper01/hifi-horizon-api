@@ -118,6 +118,8 @@
         "weight_kg": 6.8
       }
     },
+
+
     {
       "id": 2003,
       "category": "dvd-afspillere",
@@ -134,7 +136,216 @@
         "dimensions_mm": "430 x 80 x 300",
         "weight_kg": 5.0
       }
+    },
+    {
+      "id": 3001,
+      "category": "effektforstaerkere",
+      "product_name": "Manley Mahi Monoblock",
+      "price_dkk": 18999,
+      "image_url": "/images/effektforstaerkere/manley_mahi.jpg",
+      "description": "Manley Mahi leverer kraftfuld og klar lyd i et kompakt monoblok-design – perfekt til audiofile, der ønsker klasse og kontrol.",
+      "product_specifications": {
+        "power_output": "40W (triode), 80W (ultralinear)",
+        "inputs": ["RCA"],
+        "tubes": ["EL84", "12AT7", "12AX7"],
+        "dimensions_mm": "210 x 150 x 300",
+        "weight_kg": 7.0
+      }
+    },
+    {
+      "id": 3002,
+      "category": "effektforstaerkere",
+      "product_name": "Manley Neo-Classic 300B",
+      "price_dkk": 39999,
+      "image_url": "/images/effektforstaerkere/manley_neoclassic300b.jpg",
+      "description": "Neo-Classic 300B leverer referenceklasse lyd med legendarisk 300B-rør, kendt for sin varme og detaljerede præsentation.",
+      "product_specifications": {
+        "power_output": "12W (Single-Ended Triode)",
+        "inputs": ["XLR", "RCA"],
+        "tubes": ["300B", "5U4G", "6SN7"],
+        "dimensions_mm": "430 x 200 x 380",
+        "weight_kg": 15.0
+      }
+    },
+    {
+      "id": 3003,
+      "category": "effektforstaerkere",
+      "product_name": "Manley Snapper",
+      "price_dkk": 28999,
+      "image_url": "/images/effektforstaerkere/manley_snapper.jpg",
+      "description": "Manley Snapper er en kraftig og musikalsk monoblok-forstærker med KT88-rør og fremragende dynamik.",
+      "product_specifications": {
+        "power_output": "100W (Push-Pull)",
+        "inputs": ["XLR", "RCA"],
+        "tubes": ["KT88", "12AX7", "7044"],
+        "dimensions_mm": "250 x 170 x 400",
+        "weight_kg": 12.5
+      }
+    },
+    {
+      "id": 3004,
+      "category": "effektforstaerkere",
+      "product_name": "Parasound Halo A23",
+      "price_dkk": 9999,
+      "image_url": "/images/effektforstaerkere/parasound_haloa23.jpg",
+      "description": "Halo A23 er en kraftfuld og præcis stereoforstærker, ideel til både musik og hjemmebio.",
+      "product_specifications": {
+        "power_output": "125W @ 8Ω",
+        "inputs": ["XLR", "RCA"],
+        "signal_to_noise": "112 dB",
+        "dimensions_mm": "437 x 100 x 400",
+        "weight_kg": 12.0
+      }
+    },
+    
+
+    {
+      "id": 4001,
+      "category": "forforstaerkere",
+      "product_name": "Creek OBH-22 Passive Preamp",
+      "price_dkk": 2199,
+      "image_url": "/images/forforstaerkere/creek_obh_22.jpg",
+      "description": "OBH-22 er en passiv forforstærker med høj kvalitet og nul støj, perfekt til minimalistiske hi-fi-setup.",
+      "product_specifications": {
+        "type": "Passiv",
+        "inputs": 4,
+        "outputs": 2,
+        "remote_control": "Inkluderet",
+        "dimensions_mm": "200 x 50 x 150",
+        "weight_kg": 1.2
+      }
+    },
+    {
+      "id": 4002,
+      "category": "forforstaerkere",
+      "product_name": "Parasound Classic 7100",
+      "price_dkk": 6799,
+      "image_url": "/images/forforstaerkere/parasound_classic7100.jpg",
+      "description": "Classic 7100 tilbyder 7.1-kanals forforstærkning med avanceret signalbehandling og fleksibel tilslutning.",
+      "product_specifications": {
+        "channels": "7.1",
+        "inputs": ["RCA", "Coaxial", "Optical"],
+        "remote_control": "Inkluderet",
+        "dimensions_mm": "437 x 85 x 380",
+        "weight_kg": 8.5
+      }
+    },
+    {
+      "id": 4003,
+      "category": "forforstaerkere",
+      "product_name": "Parasound Halo P3",
+      "price_dkk": 4999,
+      "image_url": "/images/forforstaerkere/parasound_halop3.jpg",
+      "description": "Halo P3 er en velbygget stereopræ-forstærker med audiofile komponenter og dedikeret phono-indgang.",
+      "product_specifications": {
+        "inputs": ["RCA", "XLR", "Phono"],
+        "tone_controls": true,
+        "remote_control": "Inkluderet",
+        "dimensions_mm": "437 x 90 x 380",
+        "weight_kg": 6.5
+      }
+    },
+    {
+      "id": 4004,
+      "category": "forforstaerkere",
+      "product_name": "Pro-Ject Pre Box S2 Digital",
+      "price_dkk": 2499,
+      "image_url": "/images/forforstaerkere/project_prebox.jpg",
+      "description": "Pre Box S2 er en kompakt, men ekstremt præcis digital forforstærker og DAC med MQA-understøttelse.",
+      "product_specifications": {
+        "dac": "ESS9038Q2M 32-bit",
+        "inputs": ["USB", "Optical", "Coaxial"],
+        "headphone_output": true,
+        "dimensions_mm": "103 x 36 x 105",
+        "weight_kg": 0.6
+      }
+    },
+
+    
+
+
+    {
+      "id": 5001,
+      "category": "hojtalere",
+      "product_name": "Bösendorfer VCS Wall Speaker",
+      "price_dkk": 15999,
+      "image_url": "/images/hojtalere/boesendorfer_vcs_wall.jpg",
+      "description": "VCS Wall fra Bösendorfer leverer stor lyd fra et vægmonteret design med ægte klaverfiner.",
+      "product_specifications": {
+        "type": "Væghøjtaler",
+        "frequency_response": "50Hz - 20kHz",
+        "impedance": "8 ohm",
+        "sensitivity_db": 89,
+        "dimensions_mm": "320 x 550 x 90",
+        "weight_kg": 9.0
+      }
+    },
+    {
+      "id": 5002,
+      "category": "hojtalere",
+      "product_name": "Epos M5 Bookshelf Speaker",
+      "price_dkk": 3499,
+      "image_url": "/images/hojtalere/epos_m5.jpg",
+      "description": "Epos M5 er kompakte og præcise stativhøjtalere med silkeblød diskant og stram bas.",
+      "product_specifications": {
+        "type": "Stativhøjtaler",
+        "drivers": "1\" dome + 5.5\" bass",
+        "impedance": "8 ohm",
+        "sensitivity_db": 88,
+        "dimensions_mm": "190 x 310 x 260",
+        "weight_kg": 6.0
+      }
+    },
+    {
+      "id": 5003,
+      "category": "hojtalere",
+      "product_name": "Harbeth HL Compact 7ES-2",
+      "price_dkk": 17999,
+      "image_url": "/images/hojtalere/harbeth_hl7es2.jpg",
+      "description": "HL7ES-2 leverer Harbeths karakteristiske naturlige lyd med fantastisk mellemtonedetalje.",
+      "product_specifications": {
+        "type": "Stativhøjtaler",
+        "frequency_response": "45Hz - 20kHz",
+        "impedance": "6 ohm",
+        "sensitivity_db": 86,
+        "dimensions_mm": "270 x 510 x 280",
+        "weight_kg": 11.4
+      }
+    },
+    {
+      "id": 5004,
+      "category": "hojtalere",
+      "product_name": "Harbeth Monitor 30",
+      "price_dkk": 21999,
+      "image_url": "/images/hojtalere/harbeth_monitor30.jpg",
+      "description": "Monitor 30 er en professionel referencehøjtaler med bemærkelsesværdig neutralitet og præcision.",
+      "product_specifications": {
+        "type": "Stativhøjtaler",
+        "frequency_response": "40Hz - 20kHz",
+        "impedance": "6 ohm",
+        "sensitivity_db": 85,
+        "dimensions_mm": "275 x 460 x 275",
+        "weight_kg": 12.0
+      }
+    },
+    {
+      "id": 5005,
+      "category": "hojtalere",
+      "product_name": "Harbeth P3ESR SE2",
+      "price_dkk": 12499,
+      "image_url": "/images/hojtalere/harbeth_p3es2.jpg",
+      "description": "P3ESR SE2 er Harbeths mindste model, men leverer en utrolig opløst og naturlig gengivelse.",
+      "product_specifications": {
+        "type": "Kompakt højtaler",
+        "frequency_response": "75Hz - 20kHz",
+        "impedance": "6 ohm",
+        "sensitivity_db": 83,
+        "dimensions_mm": "190 x 306 x 184",
+        "weight_kg": 5.3
+      }
     }
+    
+    
   ]
   
 }
