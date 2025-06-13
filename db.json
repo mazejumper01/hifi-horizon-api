@@ -86,10 +86,10 @@
     {
       "id": 2001,
       "category": "dvd-afspillere",
-      "product_name": "Parasound D2000 DVD Player",
+      "product_name": "Parasound D200 DVD Player",
       "price_dkk": 3999,
-      "image_url": "/images/dvdafspillere/parasound_d2000.jpg",
-      "description": "Parasound D2000 leverer fremragende videokvalitet og solid lyd med støtte for flere disc-formater og digitale udgange.",
+      "image_url": "/images/dvdafspillere/parasound_d200.jpg",
+      "description": "Parasound D200 leverer fremragende videokvalitet og solid lyd med støtte for flere disc-formater og digitale udgange.",
       "product_specifications": {
         "format_support": ["DVD", "CD", "MP3-CD", "DVD-R"],
         "video_output": ["HDMI", "Component", "Composite"],
@@ -105,7 +105,7 @@
       "category": "dvd-afspillere",
       "product_name": "Parasound Halo D3 DVD Player",
       "price_dkk": 7499,
-      "image_url": "/images/dvdafspillere/parasound_halo_d3.jpg",
+      "image_url": "/images/dvdafspillere/parasound_halod3.jpg",
       "description": "Halo D3 er en premium DVD-afspiller med high-end komponenter og avanceret videoskalering, ideel til hjemmebiografentusiaster.",
       "product_specifications": {
         "format_support": ["DVD", "DVD-R", "CD", "SACD"],
@@ -121,9 +121,9 @@
     {
       "id": 2003,
       "category": "dvd-afspillere",
-      "product_name": "Denon DVD-2910 Player",
+      "product_name": "creek classic dvd Player",
       "price_dkk": 2999,
-      "image_url": "/images/dvdafspillere/denon_dvd2910.jpg",
+      "image_url": "/images/dvdafspillere/creek_classic.jpg",
       "description": "Denon DVD-2910 er en alsidig DVD-afspiller med stærk audiofil ydeevne og progressiv scan video for forbedret billedkvalitet.",
       "product_specifications": {
         "format_support": ["DVD", "DVD-R", "CD", "MP3-CD", "SACD"],
