@@ -19,7 +19,7 @@
       "category": "cd-afspillere",
       "product_name": "Creek Classic CD Player",
       "price_dkk": 4999,
-      "image_url": "/images/creek-classic.jpg",
+      "image_url": "/images/cd_afspillere/creek_classic_cd.jpg",
       "description": "Creek Classic er en stilfuld og pålidelig CD-afspiller, der leverer en varm og detaljeret lydoplevelse. Den er designet til audiofile, der ønsker klassisk hi-fi uden unødvendige gimmicks.",
       "product_specifications": {
         "format_support": ["CD", "CD-R", "CD-RW"],
@@ -36,7 +36,7 @@
       "category": "cd-afspillere",
       "product_name": "Creek Destiny CD Player",
       "price_dkk": 8499,
-      "image_url": "/images/creek-destiny.jpg",
+      "image_url": "/images/cd_afspillere/creek_Destiny_CD.jpg",
       "description": "Creek Destiny repræsenterer topklassen i Creeks CD-serie. Den er bygget med audiofile komponenter og en højtydende DAC for at give en ren, dynamisk og præcis lyd.",
       "product_specifications": {
         "format_support": ["CD", "CD-R", "HDCD"],
@@ -54,7 +54,7 @@
       "category": "cd-afspillere",
       "product_name": "Creek Evolution CD Player",
       "price_dkk": 5799,
-      "image_url": "/images/creek-evolution.jpg",
+      "image_url": "/images/cd_afspillere/creek_evo_cd.jpg",
       "description": "Creek EVO CD-afspilleren kombinerer moderne teknologi med Creeks velkendte lydsignatur. EVO-serien fokuserer på effektivitet, ydelse og værdi for pengene.",
       "product_specifications": {
         "format_support": ["CD", "CD-R", "CD-RW"],
@@ -67,11 +67,28 @@
       }
     },
     {
+      "id": 1004,
+      "category": "cd-afspillere",
+      "product_name": "Exposure 2010S CD Player",
+      "price_dkk": 6999,
+      "image_url": "/images/cd_afspillere/Exp_2010S_CD.gif",
+      "description": "Exposure 2010S er en britisk bygget CD-afspiller, der fokuserer på lydkvalitet frem for overflødige funktioner. Den leverer en ren og ufarvet gengivelse.",
+      "product_specifications": {
+        "format_support": ["CD", "CD-R"],
+        "dac": "Burr-Brown PCM1716 24-bit",
+        "outputs": ["RCA analog", "Coaxial digital"],
+        "power_supply": "High-current linear PSU",
+        "remote_control": "Inkluderet",
+        "dimensions_mm": "440 x 90 x 300",
+        "weight_kg": 7.2
+      }
+    },
+    {
       "id": 2001,
       "category": "dvd-afspillere",
       "product_name": "Parasound D2000 DVD Player",
       "price_dkk": 3999,
-      "image_url": "/images/parasound-d2000.jpg",
+      "image_url": "/images/dvdafspillere/parasound_d2000.jpg",
       "description": "Parasound D2000 leverer fremragende videokvalitet og solid lyd med støtte for flere disc-formater og digitale udgange.",
       "product_specifications": {
         "format_support": ["DVD", "CD", "MP3-CD", "DVD-R"],
@@ -88,7 +105,7 @@
       "category": "dvd-afspillere",
       "product_name": "Parasound Halo D3 DVD Player",
       "price_dkk": 7499,
-      "image_url": "/images/parasound-halo-d3.jpg",
+      "image_url": "/images/dvdafspillere/parasound_halo_d3.jpg",
       "description": "Halo D3 er en premium DVD-afspiller med high-end komponenter og avanceret videoskalering, ideel til hjemmebiografentusiaster.",
       "product_specifications": {
         "format_support": ["DVD", "DVD-R", "CD", "SACD"],
@@ -106,7 +123,7 @@
       "category": "dvd-afspillere",
       "product_name": "Denon DVD-2910 Player",
       "price_dkk": 2999,
-      "image_url": "/images/denon-dvd2910.jpg",
+      "image_url": "/images/dvdafspillere/denon_dvd2910.jpg",
       "description": "Denon DVD-2910 er en alsidig DVD-afspiller med stærk audiofil ydeevne og progressiv scan video for forbedret billedkvalitet.",
       "product_specifications": {
         "format_support": ["DVD", "DVD-R", "CD", "MP3-CD", "SACD"],
