@@ -137,6 +137,8 @@
         "weight_kg": 5.0
       }
     },
+
+    
     {
       "id": 3001,
       "category": "effektforstaerkere",
@@ -204,7 +206,7 @@
       "category": "forforstaerkere",
       "product_name": "Creek OBH-22 Passive Preamp",
       "price_dkk": 2199,
-      "image_url": "/images/forforstaerkere/creek_obh_22.jpg",
+      "image_url": "/images/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg",
       "description": "OBH-22 er en passiv forforstærker med høj kvalitet og nul støj, perfekt til minimalistiske hi-fi-setup.",
       "product_specifications": {
         "type": "Passiv",
@@ -250,7 +252,7 @@
       "category": "forforstaerkere",
       "product_name": "Pro-Ject Pre Box S2 Digital",
       "price_dkk": 2499,
-      "image_url": "/images/forforstaerkere/project_prebox.jpg",
+      "image_url": "/images/forforstaerkere/Project_prebox.jpg",
       "description": "Pre Box S2 er en kompakt, men ekstremt præcis digital forforstærker og DAC med MQA-understøttelse.",
       "product_specifications": {
         "dac": "ESS9038Q2M 32-bit",
@@ -269,7 +271,7 @@
       "category": "hojtalere",
       "product_name": "Bösendorfer VCS Wall Speaker",
       "price_dkk": 15999,
-      "image_url": "/images/hojtalere/boesendorfer_vcs_wall.jpg",
+      "image_url": "/images/hojtalere/boesendorfer_vcs_wall.gif",
       "description": "VCS Wall fra Bösendorfer leverer stor lyd fra et vægmonteret design med ægte klaverfiner.",
       "product_specifications": {
         "type": "Væghøjtaler",
@@ -285,7 +287,7 @@
       "category": "hojtalere",
       "product_name": "Epos M5 Bookshelf Speaker",
       "price_dkk": 3499,
-      "image_url": "/images/hojtalere/epos_m5.jpg",
+      "image_url": "/images/hojtalere/epos_m5.gif",
       "description": "Epos M5 er kompakte og præcise stativhøjtalere med silkeblød diskant og stram bas.",
       "product_specifications": {
         "type": "Stativhøjtaler",
