@@ -18,6 +18,7 @@
       "id": 1001,
       "category": "cd-afspillere",
       "product_name": "Creek Classic CD Player",
+      "brand": "Creek",
       "price_dkk": 4999,
       "image_url": "/images/cd_afspillere/creek_classic_cd.jpg",
       "description": "Creek Classic er en stilfuld og pålidelig CD-afspiller, der leverer en varm og detaljeret lydoplevelse. Den er designet til audiofile, der ønsker klassisk hi-fi uden unødvendige gimmicks.",
@@ -35,6 +36,7 @@
       "id": 1002,
       "category": "cd-afspillere",
       "product_name": "Creek Destiny CD Player",
+      "brand": "Creek",
       "price_dkk": 8499,
       "image_url": "/images/cd_afspillere/creek_Destiny_CD.jpg",
       "description": "Creek Destiny repræsenterer topklassen i Creeks CD-serie. Den er bygget med audiofile komponenter og en højtydende DAC for at give en ren, dynamisk og præcis lyd.",
@@ -53,6 +55,7 @@
       "id": 1003,
       "category": "cd-afspillere",
       "product_name": "Creek Evolution CD Player",
+      "brand": "Creek",
       "price_dkk": 5799,
       "image_url": "/images/cd_afspillere/creek_evo_cd.jpg",
       "description": "Creek EVO CD-afspilleren kombinerer moderne teknologi med Creeks velkendte lydsignatur. EVO-serien fokuserer på effektivitet, ydelse og værdi for pengene.",
@@ -70,6 +73,7 @@
       "id": 1004,
       "category": "cd-afspillere",
       "product_name": "Exposure 2010S CD Player",
+      "brand": "Exposure",
       "price_dkk": 6999,
       "image_url": "/images/cd_afspillere/Exp_2010S_CD.gif",
       "description": "Exposure 2010S er en britisk bygget CD-afspiller, der fokuserer på lydkvalitet frem for overflødige funktioner. Den leverer en ren og ufarvet gengivelse.",
@@ -87,6 +91,7 @@
       "id": 2001,
       "category": "dvd-afspillere",
       "product_name": "Parasound D200 DVD Player",
+      "brand": "Parasound",
       "price_dkk": 3999,
       "image_url": "/images/dvdafspillere/parasound_d200.jpg",
       "description": "Parasound D200 leverer fremragende videokvalitet og solid lyd med støtte for flere disc-formater og digitale udgange.",
@@ -104,6 +109,7 @@
       "id": 2002,
       "category": "dvd-afspillere",
       "product_name": "Parasound Halo D3 DVD Player",
+      "brand": "Parasound",
       "price_dkk": 7499,
       "image_url": "/images/dvdafspillere/parasound_halod3.jpg",
       "description": "Halo D3 er en premium DVD-afspiller med high-end komponenter og avanceret videoskalering, ideel til hjemmebiografentusiaster.",
@@ -118,12 +124,11 @@
         "weight_kg": 6.8
       }
     },
-
-
     {
       "id": 2003,
       "category": "dvd-afspillere",
       "product_name": "creek classic dvd Player",
+      "brand": "Creek",
       "price_dkk": 2999,
       "image_url": "/images/dvdafspillere/creek_classic.jpg",
       "description": "Denon DVD-2910 er en alsidig DVD-afspiller med stærk audiofil ydeevne og progressiv scan video for forbedret billedkvalitet.",
@@ -137,12 +142,11 @@
         "weight_kg": 5.0
       }
     },
-
-    
     {
       "id": 3001,
       "category": "effektforstaerkere",
       "product_name": "Manley Mahi Monoblock",
+      "brand": "Manley",
       "price_dkk": 18999,
       "image_url": "/images/effektforstaerkere/manley_mahi.jpg",
       "description": "Manley Mahi leverer kraftfuld og klar lyd i et kompakt monoblok-design – perfekt til audiofile, der ønsker klasse og kontrol.",
@@ -158,6 +162,7 @@
       "id": 3002,
       "category": "effektforstaerkere",
       "product_name": "Manley Neo-Classic 300B",
+      "brand": "Manley",
       "price_dkk": 39999,
       "image_url": "/images/effektforstaerkere/manley_neoclassic300b.jpg",
       "description": "Neo-Classic 300B leverer referenceklasse lyd med legendarisk 300B-rør, kendt for sin varme og detaljerede præsentation.",
@@ -173,6 +178,7 @@
       "id": 3003,
       "category": "effektforstaerkere",
       "product_name": "Manley Snapper",
+      "brand": "Manley",
       "price_dkk": 28999,
       "image_url": "/images/effektforstaerkere/manley_snapper.jpg",
       "description": "Manley Snapper er en kraftig og musikalsk monoblok-forstærker med KT88-rør og fremragende dynamik.",
@@ -188,6 +194,7 @@
       "id": 3004,
       "category": "effektforstaerkere",
       "product_name": "Parasound Halo A23",
+      "brand": "Parasound",
       "price_dkk": 9999,
       "image_url": "/images/effektforstaerkere/parasound_haloa23.jpg",
       "description": "Halo A23 er en kraftfuld og præcis stereoforstærker, ideel til både musik og hjemmebio.",
@@ -205,6 +212,7 @@
       "id": 4001,
       "category": "forforstaerkere",
       "product_name": "Creek OBH-22 Passive Preamp",
+      "brand": "Creek",
       "price_dkk": 2199,
       "image_url": "/images/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg",
       "description": "OBH-22 er en passiv forforstærker med høj kvalitet og nul støj, perfekt til minimalistiske hi-fi-setup.",
@@ -221,6 +229,7 @@
       "id": 4002,
       "category": "forforstaerkere",
       "product_name": "Parasound Classic 7100",
+      "brand": "Parasound",
       "price_dkk": 6799,
       "image_url": "/images/forforstaerkere/parasound_classic7100.jpg",
       "description": "Classic 7100 tilbyder 7.1-kanals forforstærkning med avanceret signalbehandling og fleksibel tilslutning.",
@@ -236,6 +245,7 @@
       "id": 4003,
       "category": "forforstaerkere",
       "product_name": "Parasound Halo P3",
+      "brand": "Parasound",
       "price_dkk": 4999,
       "image_url": "/images/forforstaerkere/parasound_halop3.jpg",
       "description": "Halo P3 er en velbygget stereopræ-forstærker med audiofile komponenter og dedikeret phono-indgang.",
@@ -251,6 +261,7 @@
       "id": 4004,
       "category": "forforstaerkere",
       "product_name": "Pro-Ject Pre Box S2 Digital",
+      "brand": "Pro-Ject",
       "price_dkk": 2499,
       "image_url": "/images/forforstaerkere/Project_prebox.jpg",
       "description": "Pre Box S2 er en kompakt, men ekstremt præcis digital forforstærker og DAC med MQA-understøttelse.",
@@ -262,14 +273,11 @@
         "weight_kg": 0.6
       }
     },
-
-    
-
-
     {
       "id": 5001,
       "category": "hojtalere",
       "product_name": "Bösendorfer VCS Wall Speaker",
+      "brand": "Bösendorfer",
       "price_dkk": 15999,
       "image_url": "/images/hojtalere/boesendorfer_vcs_wall.gif",
       "description": "VCS Wall fra Bösendorfer leverer stor lyd fra et vægmonteret design med ægte klaverfiner.",
@@ -286,6 +294,7 @@
       "id": 5002,
       "category": "hojtalere",
       "product_name": "Epos M5 Bookshelf Speaker",
+      "brand": "Epos",
       "price_dkk": 3499,
       "image_url": "/images/hojtalere/epos_m5.gif",
       "description": "Epos M5 er kompakte og præcise stativhøjtalere med silkeblød diskant og stram bas.",
@@ -302,6 +311,7 @@
       "id": 5003,
       "category": "hojtalere",
       "product_name": "Harbeth HL Compact 7ES-2",
+      "brand": "Harbeth",
       "price_dkk": 17999,
       "image_url": "/images/hojtalere/harbeth_hl7es2.jpg",
       "description": "HL7ES-2 leverer Harbeths karakteristiske naturlige lyd med fantastisk mellemtonedetalje.",
@@ -318,6 +328,7 @@
       "id": 5004,
       "category": "hojtalere",
       "product_name": "Harbeth Monitor 30",
+      "brand": "Harbeth",
       "price_dkk": 21999,
       "image_url": "/images/hojtalere/harbeth_monitor30.jpg",
       "description": "Monitor 30 er en professionel referencehøjtaler med bemærkelsesværdig neutralitet og præcision.",
@@ -334,6 +345,7 @@
       "id": 5005,
       "category": "hojtalere",
       "product_name": "Harbeth P3ESR SE2",
+      "brand": "Harbeth",
       "price_dkk": 12499,
       "image_url": "/images/hojtalere/harbeth_p3es2.jpg",
       "description": "P3ESR SE2 er Harbeths mindste model, men leverer en utrolig opløst og naturlig gengivelse.",
