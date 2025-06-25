@@ -1,6 +1,5 @@
-#API til loginøvelser
+#API til Hifi-horizon
 
-Clon reporsitory.
 
 Installer dependencies:
 
@@ -14,4 +13,4 @@ Start api:
 npm start
 ```
 
-Dokumentation, med informaiton om endpoints mv.: http://localhost:4000
+Route til fetch.: http://localhost:4000
