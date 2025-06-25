@@ -1,4 +1,5 @@
 {
+
   "users": [
     {
       "id": 1,
@@ -17,7 +18,7 @@
     {
       "id": 1001,
       "category": "cd-afspillere",
-      "product_name": "Creek Classic CD Player",
+      "product_name": "Creek Classic CD Player"
       "brand": "Creek",
       "price_dkk": 4999,
       "image_url": "/images/cd_afspillere/creek_classic_cd.jpg",
@@ -124,6 +125,8 @@
         "weight_kg": 6.8
       }
     },
+
+
     {
       "id": 2003,
       "category": "dvd-afspillere",
@@ -142,6 +145,7 @@
         "weight_kg": 5.0
       }
     },
+
     {
       "id": 3001,
       "category": "effektforstaerkere",
@@ -206,6 +210,8 @@
         "weight_kg": 12.0
       }
     },
+
+
     
 
     {
@@ -273,6 +279,12 @@
         "weight_kg": 0.6
       }
     },
+
+
+    
+
+
+
     {
       "id": 5001,
       "category": "hojtalere",
@@ -363,3 +375,4 @@
   ]
   
 }
+
